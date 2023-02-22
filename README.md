@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Pedro Melo - @pprad0
+- 👋 Hi, I’m Pedro Melo
 - 👀 At the moment i'm mostly interested in increase my knowledge of Javascript, Node.js, SQL and technical English.
 - 🌱 I’m currently learning back-end(Javascript, SQL) at Cubos Academy and front-end (HTML, CSS) at Rocketseat.
 - 💞️ I’m looking to collaborate on back-end projects and maybe front-end, fullstack projects in the future.
