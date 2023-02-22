@@ -19,4 +19,4 @@ Sou desenvolvedor back-end júnior e estudo na **Cubos Academy** desde o segundo
   - Email: <sup> pedromarcosprado26@gmail.com </sup>
   - LinkedIn: <sup> https://www.linkedin.com/in/pemelo/ </sup>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pprad0&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pprad0&layout=dracula&theme=dracula&custom_title=Linguagens%20%mais%20%utilizadas)](https://github.com/anuraghazra/github-readme-stats)
