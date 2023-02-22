@@ -21,4 +21,7 @@ Sou desenvolvedor back-end júnior e estudo na **Cubos Academy** desde o segundo
   - LinkedIn: <sup> https://www.linkedin.com/in/pemelo/ </sup>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pprad0&layout=compact&theme=dracula&custom_title=Estudos)](https://github.com/anuraghazra/github-readme-stats)
+
+
+### Gráficos
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pprad0&layout=compact&theme=dark&custom_title=Estudos)](https://github.com/anuraghazra/github-readme-stats)
