@@ -1,4 +1,4 @@
-### Olá pessoal! 😄
+## Olá pessoal! 😄
 
 Meu nome é Pedro, sou de São Paulo capital e adoro filmes com temática de tecnologia e futurismo. 🎬
 
@@ -18,3 +18,5 @@ Sou desenvolvedor back-end júnior e estudo na **Cubos Academy** desde o segundo
 ### Para me encontrar:
   - Email: <sup> pedromarcosprado26@gmail.com </sup>
   - LinkedIn: <sup> https://www.linkedin.com/in/pemelo/ </sup>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pprad0&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
