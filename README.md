@@ -6,6 +6,7 @@ Sou desenvolvedor back-end júnior e estudo na **Cubos Academy** desde o segundo
 
 ### No momento estou aprendendo:
   - ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+  - ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 
 ### Hard Skills:
   - ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -19,4 +20,5 @@ Sou desenvolvedor back-end júnior e estudo na **Cubos Academy** desde o segundo
   - Email: <sup> pedromarcosprado26@gmail.com </sup>
   - LinkedIn: <sup> https://www.linkedin.com/in/pemelo/ </sup>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pprad0&layout=dracula&theme=dracula&custom_title=Linguagens%20%mais%20%utilizadas)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pprad0&layout=compact&theme=dracula&custom_title=Estudos)](https://github.com/anuraghazra/github-readme-stats)
