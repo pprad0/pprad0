@@ -2,7 +2,7 @@
 
 Meu nome é Pedro, sou de São Paulo capital e adoro filmes com temática de tecnologia e futurismo. 🎬
 
-Sou desenvolvedor back-end júnior e estudo na **Cubos Academy** desde o segundo semestre de 2022, gosto muito de participar da comunidade e dos eventos da área de programação pois sempre me ajudaram a pensar de maneiras diferentes.
+Sou desenvolvedor back-end júnior e estudo na **Cubos Academy** desde o segundo semestre de 2022, gosto muito de participar da comunidade e dos eventos da área de programação pois sempre me ajudam a pensar de maneiras diferentes.
 
 ### No momento estou aprendendo:
   - ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
