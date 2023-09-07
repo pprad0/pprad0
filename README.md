@@ -1,21 +1,16 @@
 ## Olá pessoal! 😄
 
-#### Meu nome é Pedro, sou de São Paulo capital e adoro filmes com temática de tecnologia e futurismo. 🎬
+### Meu nome é Pedro, sou de São Paulo capital e sou Desenvolvedor Fullstack!
 
-#### Sou desenvolvedor backend, pretendo me especializar em Typescript, aplicar em meus projetos atuais e aprender mais de frontend. Melhoria contínua é super importante para mim.
-
-### No momento estou aprendendo:
-  - ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-  - ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-
-### Hard Skills:
-  - ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  - ![Node.Js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-  - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-  - ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+#### No momento estou aprendendo:
+[![My Skills](https://skillicons.dev/icons?i=typescript,net,mongodb,docker,react&=light)](https://skillicons.dev)
   
 
-### Para me encontrar:
+#### Hard Skills:
+ [![My Skills](https://skillicons.dev/icons?i=javascript,postgres,git,github&=light)](https://skillicons.dev)
+  
+
+#### Para me encontrar:
   - Email: <sup> pedromarcosprado26@gmail.com </sup>
   - LinkedIn: <sup> https://www.linkedin.com/in/pemelo/ </sup>
 
