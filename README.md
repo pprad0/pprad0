@@ -1,4 +1,4 @@
-## Olá pessoal! 😄
+## Olá! Seja bem vinde 😄
 
 ### Meu nome é Pedro, sou de São Paulo capital e sou Desenvolvedor Fullstack!
 
