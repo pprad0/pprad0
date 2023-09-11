@@ -7,7 +7,7 @@
   
 
 #### Hard Skills:
- [![My Skills](https://skillicons.dev/icons?i=javascript,postgres,git,github&=light)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=javascript,postman,postgres,git,github&=light)](https://skillicons.dev)
   
 
 #### Para me encontrar:
